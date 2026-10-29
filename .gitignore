@@ -10,3 +10,6 @@ __pycache__/
 *.mp4
 *.mov
 *.avi
+
+# laboratorio de APIs tem repositorio proprio: github.com/elibizerril/laboratorio-apis
+laboratorio/
