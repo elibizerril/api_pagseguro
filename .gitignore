@@ -5,3 +5,8 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .respostas/
+
+# gravações de tela e vídeos grandes: usar release, não commit
+*.mp4
+*.mov
+*.avi
